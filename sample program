@@ -1,0 +1,4 @@
+id = 10
+print(int(id))
+print(float(id))
+print(complex(id))
